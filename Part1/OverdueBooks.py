@@ -16,11 +16,11 @@ SENIOR = 'senior'
 
 
 def overdue_fees(days_late: int, age_group: str) -> float:
-    # """Return the fees for a book that is days_late days late for a borrower
-    # in the age group age_group.
+    """Return the fees for a book that is days_late days late for a borrower
+    in the age group age_group.
 
-    # >>> overdue_fees(2, SENIOR) # 2 days late, SENIOR borrower
-    # 0.5
-    # >>> overdue_fees(5, ADULT) # 5 days late, ADULT borrower
-    # 10
-    # """
+    >>> overdue_fees(2, SENIOR) # 2 days late, SENIOR borrower
+    0.5
+    >>> overdue_fees(5, ADULT) # 5 days late, ADULT borrower
+    10
+    """
