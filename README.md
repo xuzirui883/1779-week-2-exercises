@@ -13,6 +13,6 @@ The following exercises are intended to help familiarize you with Flask applicac
 1.  Writing an area method in a Rectangle class
 2.  A class to manage a collection of Rectangle objects
 
+***
 
-
-> Once you have finished the exercises, submit them to [PCRS](https://pcrs.teach.cs.toronto.edu/ECE1779-2022-09/content/quests) by copying your code into the respective questions. 
+# Once you have finished the exercises, submit them to [PCRS](https://pcrs.teach.cs.toronto.edu/ECE1779-2022-09/content/quests) by copying your code into the respective questions. 
