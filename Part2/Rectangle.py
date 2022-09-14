@@ -22,3 +22,5 @@ class Rectangle:
         >>> r.area()
         200.0
         """
+
+        return self.width * self.height

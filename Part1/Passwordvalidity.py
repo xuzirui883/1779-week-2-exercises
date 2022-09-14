@@ -6,6 +6,6 @@ def check_password(passwd: str) -> bool:
     one digit.  Return True iff passwd is considered strong.
 
     example:
-    >>> check_password('I<3csc108')
+    >>> check_password('I<3ece1779')
     True
     """
