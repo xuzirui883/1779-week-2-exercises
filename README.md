@@ -14,6 +14,7 @@ The following exercises are intended to help familiarize you with Flask applicac
 2.  A class to manage a collection of Rectangle objects
 
 
-<span style="background-color: #FFFF00">Marked text</span>
+<mark>Marked text</mark>
+
 
 ## Once you have finished the exercises, submit them to [PCRS](https://pcrs.teach.cs.toronto.edu/ECE1779-2022-09/content/quests) by copying your code into the respective questions: 
