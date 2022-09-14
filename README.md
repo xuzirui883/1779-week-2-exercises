@@ -15,4 +15,4 @@ The following exercises are intended to help familiarize you with Flask applicac
 
 ***
 
-# Once you have finished the exercises, submit them to [PCRS](https://pcrs.teach.cs.toronto.edu/ECE1779-2022-09/content/quests) by copying your code into the respective questions. 
+### Once you have finished the exercises, submit them to [PCRS](https://pcrs.teach.cs.toronto.edu/ECE1779-2022-09/content/quests) by copying your code into the respective questions. 
