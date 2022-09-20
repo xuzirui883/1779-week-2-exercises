@@ -1,6 +1,6 @@
 # Week 2 Exercises
 
-The following exercises are intended to help familiarize you with Flask applicactions, and python. This week's exercises will also count towards your participation mark; please follow the instructions below. 
+The following exercises are intended to help familiarize you with Python. This week's exercises will also count towards your participation mark; please follow the instructions below. 
 
 ## Part 1: Complete the exercises in the Part1 folder:
 
