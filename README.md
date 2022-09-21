@@ -16,3 +16,5 @@ The following exercises are intended to help familiarize you with Python. This w
 ***
 
 ### Once you have finished the exercises, submit them to [PCRS](https://pcrs.teach.cs.toronto.edu/ECE1779-2022-09/content/quests) by copying your code into the respective questions. 
+
+Deadline: Sept. 28, 4pm
